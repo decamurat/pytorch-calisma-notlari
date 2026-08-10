@@ -2,10 +2,6 @@
 transfer learning: çiçeklerin sınıflandırması 102 farklı etiketten oluşan sınıflandırma
 mobilnet ile transfer learning
 """
-from pickle import FALSE
-from sched import scheduler
-
-from numpy import indices
 import torch
 import torch.nn as nn
 import torchvision.transforms as transforms
